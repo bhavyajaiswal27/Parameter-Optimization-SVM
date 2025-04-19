@@ -37,5 +37,5 @@ We use the [`load_digits`](https://scikit-learn.org/stable/modules/generated/skl
 - Console output of all 10 sample results
 
 ---
-(accuracy.png)
-(stats.png)
+![accuracy graph](accuracy.png)
+![Result](stats.png)
