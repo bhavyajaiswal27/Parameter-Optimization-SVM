@@ -2,8 +2,8 @@
 
 This project performs hyperparameter optimization of a Support Vector Machine (SVM) classifier on the **UCI Optical Recognition of Handwritten Digits** dataset. The goal is to evaluate the performance of an SVM classifier using multiple train-test samples and track the convergence of accuracy over 100 randomized optimization iterations.
 
-Author: **Vardhan Singh Rawat**  
-Roll Number: **102203268**
+Author: **Bhavya Jaiswal**  
+Roll Number: **102203087**
 ---
 
 ## 📊 Dataset
